@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🎬 Movie Recommendation System by Aniket Gund")
+st.title("🎬 Movie Recommendation System by Ashutosh Wagh")
 
 # --------------------------------
 # Load data
